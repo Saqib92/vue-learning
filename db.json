@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Doctors Appointment",
+      "day": "March 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "title": "Meeting with boss",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "title": "Food shopping",
+      "day": "March 7th at 2:00pm",
+      "reminder": false
+    },
+    {
+      "id": 10220,
+      "title": "Hello World",
+      "day": "Feb, 14 2022 @ 69:00 pm",
+      "reminder": true
+    },
+    {
+      "id": 18476,
+      "title": "Wicket Keeper Gloves",
+      "day": "Friday the 13th",
+      "reminder": false
+    },
+    {
+      "title": "now task",
+      "day": "January 13th",
+      "reminder": false,
+      "id": 18478
+    }
+  ]
+}
